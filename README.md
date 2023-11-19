@@ -29,3 +29,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Y3ll0wman&theme=radical)](https://git.io/streak-stats)
 </br>
 ![Konstantin Varvarkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=y3ll0wman&show_icons=true&theme=radical)
+
+---
+
+### :rocket: Проекты
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=y3ll0wman&repo=Saber-Interactive-Auto-Tests)](https://github.com/Y3ll0wman/Saber-Interactive-Auto-Tests)
