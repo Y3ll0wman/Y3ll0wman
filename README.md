@@ -15,7 +15,6 @@
     <tr><td width="10%" valign="bottom"><img src="images/stepik_logo.png"></td><td valign="middle">Stepik.</br>Python: основы и применение.</br><a target="_blank" href="https://stepik.org/cert/1988994">Сертификат.</a></td></tr>
     <tr><td width="10%" valign="bottom"><img src="images/yandex_logo.png"></td><td valign="middle">Яндекс.</br>QA Engineer.</td></tr>
 </table>
-  </br>
 
 ---
 
