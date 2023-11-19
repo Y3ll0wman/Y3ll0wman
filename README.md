@@ -26,12 +26,12 @@
 
 ### 📊 Статистика Github
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Y3ll0wman&theme=radical)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y3ll0wman&theme=radical)
 </br>
-![Konstantin Varvarkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=y3ll0wman&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y3ll0wman&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=y3ll0wman&theme=radical)
+</br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Y3ll0wman&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-### :rocket: Проекты
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=y3ll0wman&repo=Saber-Interactive-Auto-Tests)](https://github.com/Y3ll0wman/Saber-Interactive-Auto-Tests)
+### Связаться со мной в Telegram: https://t.me/Y3ll0wman
