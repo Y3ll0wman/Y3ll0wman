@@ -38,7 +38,7 @@
 
 #### <a target="_blank" href="https://github.com/Y3ll0wman/Ivi_UI_and_mobile_test_framework">Фреймворк для автоматизации тестирования web (UI) и mobile онлайн кинотеатра Ivi/a>
 #### <a target="_blank" href="https://github.com/Y3ll0wman/Petstore_api_test_framework">Фреймворк для автоматизации тестирования API Petstore.io/a>
-#### <a target="_blank" href="[https://github.com/Y3ll0wman/Petstore_api_test_framework](https://github.com/Y3ll0wman/Saber-Interactive-Auto-Tests)">Фреймворк для автоматизации тестирования сайта Saber Interactive/a>
+#### <a target="_blank" href="https://github.com/Y3ll0wman/Petstore_api_test_framework](https://github.com/Y3ll0wman/Saber-Interactive-Auto-Tests">Фреймворк для автоматизации тестирования сайта Saber Interactive/a>
 
 ---
 
